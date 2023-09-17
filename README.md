@@ -65,9 +65,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-- Dataset source (if applicable)
-- Inspiration (if any)
-
----
-
-Feel free to customize this README to fit your project's specific details, such as dataset sources, acknowledgments, and additional instructions.
+- Dataset source  : https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction
+- Inspiration : https://www.kaggle.com/code/campusx/notebook8ad570467f
